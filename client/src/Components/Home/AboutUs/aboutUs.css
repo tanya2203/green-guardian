@@ -1,0 +1,11 @@
+/* Default styles for the ContactUs component */
+.parallax-mf {
+  /* Add your styles here */
+}
+
+/* Media query for smaller screens */
+@media (max-width: 768px) {
+  .parallax-mf {
+    /* Adjust styles for smaller screens */
+  }
+}
